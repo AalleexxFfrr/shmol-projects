@@ -1,1 +1,1 @@
-# shmol-projects
+### Scripts, mini-projects, tutorials

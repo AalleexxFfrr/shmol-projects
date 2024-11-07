@@ -1,1 +1,1 @@
-### Scripts, mini-projects, tutorials
+### Scripts, small projects
